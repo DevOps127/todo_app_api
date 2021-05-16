@@ -7,6 +7,6 @@
     "sourceMap": true,
     "outDir": "./dist"
   },
-  "exclude": ["node_modules", "dist", "spec"],
+  "exclude": ["node_modules", "./dist", "spec"],
   "lib": ["es2015"]
 }
